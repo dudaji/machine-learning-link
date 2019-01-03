@@ -8,6 +8,16 @@ https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
 https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
+## katacoda deep learning
+
+https://www.katacoda.com/courses/machine-learning
+
+아래 3가지만 합니다.
+
+1. getting started
+2. Layers in Tensorflow
+3. Deep learning with tensorflow
+
 ## Stanford CS231n 2017
 
 2018 버전 있는지 확인
